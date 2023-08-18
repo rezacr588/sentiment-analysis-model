@@ -6,7 +6,7 @@ from src.data_loader import load_imdb_data
 from src.utils import save_model, load_model
 import logging
 
-MODEL_PATH = 'saved_model.pkl'
+MODEL_PATH = 'model.pkl'
 DATA_PATH = 'data/raw/aclImdb'
 
 def main():
