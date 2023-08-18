@@ -1,2 +1,5 @@
-# sentiment-analysis-model
-Determine the sentiment of a given text (e.g., positive, negative, neutral).
+# Sentiment Analysis Project
+
+A brief overview of the project, its objectives, and how to set it up.
+
+For detailed documentation, refer to `docs/README.md`.
